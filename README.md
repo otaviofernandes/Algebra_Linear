@@ -1,2 +1,2 @@
 # Álgebra Linear - IMPACTA
-Exercícios da disciplina de Álgebra Linear utilizando o as bibliotecas nympy e matplotlib.
+Exercícios da disciplina de Álgebra Linear, feitos no Google Colaboratory, utilizando o as bibliotecas Numpy e Matplotlib.
