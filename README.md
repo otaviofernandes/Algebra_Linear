@@ -1,1 +1,2 @@
-# AC2_Algebra_Linear
+# Álgebra Linear - IMPACTA
+Exercícios da disciplina de Álgebra Linear utilizando o as bibliotecas nympy e matplotlib.
